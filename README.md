@@ -1,6 +1,6 @@
  # programacion Orientada a Objetos 1 y Lab
 
-- Nombre: Diego Garcia Diaz de León
+- Nombre: Diego Ignacio Garcia Diaz de León
 - Correo: diego.garciad@uap.uaz.edu.mx
 
 ## Actividad 1
