@@ -36,4 +36,4 @@
 - _p21_VerificarNumero
 - _p22_VerificarSuma
 - _p23_ConvertirTemperatura
--_p24_PagaTrabajadorv2
+- _p24_PagaTrabajadorv2
