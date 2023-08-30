@@ -32,8 +32,19 @@
 - _p20_ConversionTipos
 
 ## Actividad 4
-
 - _p21_VerificarNumero
 - _p22_VerificarSuma
 - _p23_ConvertirTemperatura
 - _p24_PagaTrabajadorv2
+
+## Actividad 5
+- _p25_EstacionesAño
+- _p26_TipoAngulo
+- _p27_AceptarEstudiante
+- _p28_LeyDeNewton
+
+## Actividad 6
+- _p29_Calculadora
+- _p30_DiaSemana
+- _p31_NumerosRomanos
+- _p32_PagoEstacionamiento
