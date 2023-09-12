@@ -82,3 +82,9 @@
 - _p49_ParesDescendente  
 - _p50_ConversionTemperaturas
 - _p51_SerieFibonaci
+
+## Actividad 10
+- _p57_TablasMultiplicar
+- _p58_Piramide
+- _p59_FactorialNumeros
+- _p60_SumaTerminos
