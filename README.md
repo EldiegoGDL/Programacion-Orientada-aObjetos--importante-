@@ -102,3 +102,9 @@
 - _p72_SumaParesImpares
 - _p73_Factorial
 - _p74_CuadroCaracter
+
+## Practica 4
+- _p61_SecuenciaNumeros1
+- _p62_SecuenciaNumeros2
+- _p63_SumaTerminos1
+- _p64_SumaTerminos2
