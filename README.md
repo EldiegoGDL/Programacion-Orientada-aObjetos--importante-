@@ -108,3 +108,10 @@
 - _p62_SecuenciaNumeros2
 - _p63_SumaTerminos1
 - _p64_SumaTerminos2
+
+## Practica 5
+- _p75_NumeroMenor
+- _p76_DiaSemana  
+- _p77_MedidasLongitud  
+- _p78_SumaMultiplos
+- _p79_Angulo
