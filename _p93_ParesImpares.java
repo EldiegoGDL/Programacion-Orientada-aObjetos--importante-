@@ -26,10 +26,12 @@ public class _p93_ParesImpares {
                     i = i + 1;
                 }
             }
-
+        System.out.print("\nnumero de pares :" + i);
         System.out.println("\n");
+
     }
     public static void impar(int[] nums) {
+        int i=0;
         for (int n : nums)
             if (n==0) {
                 
@@ -38,8 +40,9 @@ public class _p93_ParesImpares {
                     
                 }
                 System.out.printf("%d ", n);
+                i = i + 1;
             }
-
+        System.out.print("\nnumero de pares :" + i);
         System.out.println("\n");
     }
     public static void main(String[] args) {
@@ -50,13 +53,19 @@ public class _p93_ParesImpares {
         System.out.println("El arreglo ya con aletorios generados:\n");
         GeneraAleatorio(A);
         GeneraAleatorio(B);
+        System.out.println("A");
         Mostrar(A);
+        System.out.println("B");
         Mostrar(B);
         System.out.println("\nLos elementos del areglo que son pares:");
+        System.out.println("A");
         par(A);
+        System.out.println("B");
         par(B);
         System.out.println("\nLos elementos del areglo que son impares:");
+        System.out.println("A");
         impar(A);
+        System.out.println("B");
         impar(B);
     }
 }
