@@ -148,3 +148,8 @@
 - _p98_Circulo
 - _p99_Rectangulo
 - _p100_Articulo
+
+## Actividad 16
+- _p101_Persona
+- _p102_Autor
+- _p103_ClienteFactura
