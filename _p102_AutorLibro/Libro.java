@@ -1,4 +1,4 @@
-package _p102_Autor;
+package _p102_AutorLibro;
 
 public class Libro {
     private String Isbn;
@@ -10,7 +10,7 @@ public class Libro {
     public Libro() {
     }
 
-    public Libro(String isbn, String nombre, _p102_Autor.Autor autor, double precio, int cantidad) {
+    public Libro(String isbn, String nombre, _p102_AutorLibro.Autor autor, double precio, int cantidad) {
         Isbn = isbn;
         Nombre = nombre;
         Autor = autor;

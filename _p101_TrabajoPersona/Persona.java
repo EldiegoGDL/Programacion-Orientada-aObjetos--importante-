@@ -1,9 +1,9 @@
-package _p101_Persona;
+package _p101_TrabajoPersona;
 
 public class Persona {
     private String Nombre;
     private Trabajo Trabajo;
-    public Persona(String nombre, _p101_Persona.Trabajo trabajo) {
+    public Persona(String nombre, _p101_TrabajoPersona.Trabajo trabajo) {
         Nombre = nombre;
         Trabajo = trabajo;
     }

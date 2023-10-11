@@ -1,4 +1,4 @@
-package _p102_Autor;
+package _p102_AutorLibro;
 
 public class Autor {
     private String Nombre;

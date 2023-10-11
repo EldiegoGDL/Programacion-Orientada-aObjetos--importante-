@@ -150,6 +150,8 @@
 - _p100_Articulo
 
 ## Actividad 16
-- _p101_Persona
-- _p102_Autor
+- _p101_TrabajoPersona
+- _p102_AutorLibro
 - _p103_ClienteFactura
+
+## Practca 8

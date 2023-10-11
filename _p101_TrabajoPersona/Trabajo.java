@@ -1,4 +1,4 @@
-package _p101_Persona;
+package _p101_TrabajoPersona;
 
 public class Trabajo {
     private int Id;

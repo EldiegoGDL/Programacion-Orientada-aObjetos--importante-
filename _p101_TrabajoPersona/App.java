@@ -1,4 +1,4 @@
-package _p101_Persona;
+package _p101_TrabajoPersona;
 
 public class App {
     public static void main(String[] args) {
