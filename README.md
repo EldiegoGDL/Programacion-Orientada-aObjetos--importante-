@@ -155,6 +155,5 @@
 - _p103_ClienteFactura
 
 ## Practca 8
-
 - _p104_PuntoCirculo
 - _p105_PuntoTriangulo
