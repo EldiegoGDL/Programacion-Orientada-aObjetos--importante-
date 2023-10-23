@@ -173,4 +173,7 @@
 - _p111_CuentaBancariaV2
 
 ## Practica 10
--_p112_ControlVentas
+- _p112_ControlVentas
+
+## Segundo examen Parcial
+- _p113_SegundoExamenParcial
