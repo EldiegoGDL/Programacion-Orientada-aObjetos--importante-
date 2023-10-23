@@ -171,3 +171,6 @@
 
 ## Actividad 19
 - _p111_CuentaBancariaV2
+
+## Practica 10
+-_p112_ControlVentas
