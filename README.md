@@ -205,3 +205,19 @@
 - _p129_ExcepcionDulces
 - _p130_ExcepcionEdades
 - _p131_ExcepcionTemperatura
+
+## Actividad 23
+- _p132_Archivos1
+- _p133_Archivos2
+- _p134_Archivos3
+- _p135_Archivos4
+- _p136_Archivos5
+
+## Practica 13
+- _p137_ArchivoMunicipios
+
+## Actividad 24
+
+- _p139_HolaMundoGUI
+- _p140_AreaTrianguloGUI
+- _p141_LeyDeNewtonGUI
