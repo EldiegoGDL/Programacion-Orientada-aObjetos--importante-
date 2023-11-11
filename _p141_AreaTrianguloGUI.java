@@ -1,12 +1,12 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class _p140_AreaTrianguloGUI extends JFrame implements ActionListener {
+public class _p141_AreaTrianguloGUI extends JFrame implements ActionListener {
     JLabel lblBase, lblAltura, lblResultado;
     JTextField txtBase, txtAltura;
     JButton btnCalcular, btnSalir;
 
-    public _p140_AreaTrianguloGUI() {
+    public _p141_AreaTrianguloGUI() {
         super("Calcular el área de un triángulo");
         setLayout(null);
         lblBase = new JLabel("Base :");
@@ -58,7 +58,7 @@ public class _p140_AreaTrianguloGUI extends JFrame implements ActionListener {
     }
     
     public static void main(String[] args) {
-        _p140_AreaTrianguloGUI app = new _p140_AreaTrianguloGUI();
+        _p141_AreaTrianguloGUI app = new _p141_AreaTrianguloGUI();
         app.setBounds(10, 10, 300, 200);
         app.setLocationRelativeTo(null);
         app.setVisible(true);

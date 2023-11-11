@@ -3,7 +3,7 @@ import java.awt.*;
 import javax.swing.event.*;
 import java.awt.event.*;
 
-public class _p141_LeyDeNewtonGUI extends JFrame implements ActionListener, ChangeListener {
+public class _p142_LeyDeNewtonGUI extends JFrame implements ActionListener, ChangeListener {
     JPanel p1;
     JLabel lblFuerza, lblMasa, lblAceleracion;
     JTextField txtFuerza, txtMasa, txtAceleracion;
@@ -11,7 +11,7 @@ public class _p141_LeyDeNewtonGUI extends JFrame implements ActionListener, Chan
     JRadioButton rbtFureza, rbtMasa, rbtAceleracion;
     JButton btnCalcular, btnSalir;
 
-    public _p141_LeyDeNewtonGUI() {
+    public _p142_LeyDeNewtonGUI() {
         super("Calcular la 2da Ley de Newton");
         setLayout(new FlowLayout());
         p1 = new JPanel();
@@ -93,7 +93,7 @@ public class _p141_LeyDeNewtonGUI extends JFrame implements ActionListener, Chan
     }
 
     public static void main(String[] args) {
-        _p141_LeyDeNewtonGUI app = new _p141_LeyDeNewtonGUI();
+        _p142_LeyDeNewtonGUI app = new _p142_LeyDeNewtonGUI();
         app.setBounds(10, 10, 300, 200);
         app.setLocationRelativeTo(null);
         app.setVisible(true);

@@ -2,12 +2,12 @@ import javax.swing.*;
 
 import java.awt.Font;
 
-public class _p139_HolaMundoGUI extends JFrame {
+public class _p140_HolaMundoGUI extends JFrame {
 
     private JLabel lblSaludo;
     private JLabel lblSaludo2;
 
-    public _p139_HolaMundoGUI(){
+    public _p140_HolaMundoGUI(){
         setLayout(null);
         lblSaludo = new JLabel("Hola Mundo GUI, Bienvenido");
         lblSaludo.setFont(new Font("Times New Roman",Font.BOLD, 30));
@@ -21,7 +21,7 @@ public class _p139_HolaMundoGUI extends JFrame {
     }
 
     public static void main(String[] args) {
-        _p139_HolaMundoGUI app = new _p139_HolaMundoGUI();
+        _p140_HolaMundoGUI app = new _p140_HolaMundoGUI();
         app.setBounds(10, 10, 500, 300);
         app.setLocationRelativeTo(null);
         app.setVisible(true);
