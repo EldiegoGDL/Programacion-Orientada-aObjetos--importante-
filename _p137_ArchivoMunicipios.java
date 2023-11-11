@@ -8,26 +8,35 @@ public class _p137_ArchivoMunicipios {
 
     public static void main(String[] args) {
         String [] deportes = {"Fútbol","Béisbol","Ciclismo","Atletimso","Natación","Motociclismo"};
-        File arch = new File("deportes.txt");
+        File archivo = new File("deportes.txt");
         
-            
-        if (arch.exists()){
-            System.out.println("Ruta absoluta : " + arch.getAbsolutePath());
-            System.out.println("Nombre archivo : " + arch.getName());
-            
-        }
-            
-
-        
+        if (archivo.exists()) {
+            System.out.println("--------------------------------------------------------------------->");
+            System.out.println("Ruta absoluta : " + archivo.getAbsolutePath());
+            System.out.println("Nombre archivoivo : " + archivo.getName());
             try {
-                BufferedWriter fnombres = new BufferedWriter(new FileWriter(arch));
-                for (String nombre : deportes)
-                    fnombres.write(nombre + "\n");
-                fnombres.close();
+                BufferedReader lector = new BufferedReader(new FileReader(archivo));
+                String linea;
+                while ((linea = lector.readLine()) != null)
+                    System.out.println(linea);
+                lector.close();
             } catch (Exception e) {
-                System.out.println("Problemas al procesar el archivo..");
+                System.out.println("Problemas al procesar el archivoivo..");
                 System.out.println(e);
             }
-    
+            
+        } else {
+            
+            try {
+                BufferedWriter escribir = new BufferedWriter(new FileWriter(archivo));
+                for (String nombre : deportes)
+                    escribir.write(nombre + "\n");
+                escribir.close();
+            } catch (Exception e) {
+                System.out.println("Problemas al procesar el archivoivo..");
+                System.out.println(e);
+            }
+        
+        }
     }
 }

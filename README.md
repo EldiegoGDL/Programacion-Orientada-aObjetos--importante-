@@ -215,6 +215,8 @@
 
 ## Practica 13
 - _p137_ArchivoMunicipios
+- _p138_ArchivoMaterias
+- _p139_ArchivoEstudiante
 
 ## Actividad 24
 
