@@ -223,3 +223,6 @@
 - _p139_HolaMundoGUI
 - _p140_AreaTrianguloGUI
 - _p141_LeyDeNewtonGUI
+
+## Actividad 25
+- _p145_EstudianteGUI_V1
